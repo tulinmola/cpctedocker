@@ -1,0 +1,1 @@
+docker run --rm -v $(pwd):/host -w /host -e CPCT_PATH=/cpctelera-development/cpctelera cpctelera /bin/make

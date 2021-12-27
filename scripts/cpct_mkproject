@@ -1,0 +1,1 @@
+docker run --rm -v $(pwd):/host -w /host cpctelera /cpctelera-development/cpctelera/tools/scripts/cpct_mkproject $1
